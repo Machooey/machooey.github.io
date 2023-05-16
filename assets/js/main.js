@@ -93,8 +93,8 @@
 
 			}
 
-	// Main Sections: Two.
-
+	// Main Sections: Two. 
+		/*
 		// Lightbox gallery.
 			$window.on('load', function() {
 
@@ -112,6 +112,6 @@
 					windowMargin: (breakpoints.active('<=small') ? 0 : 50)
 				});
 
-			});
+			}); */
 
 })(jQuery);
